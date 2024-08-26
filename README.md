@@ -9,4 +9,3 @@ Model.py: class CNN: cnn architecture; train_and_validation function; predict fu
 
 Plot.py: plot_metrics function for plotting loss, accuracy, and other metrics.
 
-Pre-processing and Model Exploration.ipynb: Shows steps taken in the project until the final model.
