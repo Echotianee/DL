@@ -1,4 +1,3 @@
-model folde explanation:
 
 CNN_final.ipynb: main notebook to run the model, including hyper parameter settings.
 
